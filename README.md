@@ -1,2 +1,3 @@
-README 
-"Meu primeiro estudo Python,estou aprendendo o Github e Python e estou subindo um Readme"
+# Meu primeiro estudo Python
+
+Estou aprendendo o Git e Python e criei esse repositório para registrar meus programas .py
